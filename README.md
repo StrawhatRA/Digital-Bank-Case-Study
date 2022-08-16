@@ -1,4 +1,5 @@
 # The digital wallet gold standard of the future.
+![MOGO_original](https://user-images.githubusercontent.com/93293695/184788500-158a5cee-bbbf-4ade-886b-93c20aaf212a.png)
 
 Mogo was founded in 2003 by David & Gregory Feller in Vancouver. The idea came about when the twin brothers were discussing how hard it was to get a loan as a consumer. 
 They identified the pain point which is the long procedure and multiple visits to the financial institution. With everything being done more and more on the internet, 
